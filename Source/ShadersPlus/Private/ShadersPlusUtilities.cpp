@@ -3,6 +3,8 @@
 #include "Engine/Texture.h"
 #include "Engine/Texture2D.h"
 #include "Engine/TextureRenderTarget2D.h"
+#include "Rendering/Texture2DResource.h"
+
 
 #include "RenderingThread.h"
 #include "HAL/FileManager.h"
